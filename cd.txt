@@ -1,0 +1,8 @@
+cd - for moving to next directory
+cd../  - for moving from current directory to the previous directory
+dir / ls - shows all the files in current directory
+cls - clear screen
+
+git intialize
+git config --global user.name "some name"
+git config --global user.email "some email"
